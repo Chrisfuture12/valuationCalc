@@ -1,0 +1,11 @@
+/home/chris/Documents/BusinessValuationCalculator/obj/Debug/netcoreapp2.1/BusinessValuationCalculator.csprojAssemblyReference.cache
+/home/chris/Documents/BusinessValuationCalculator/obj/Debug/netcoreapp2.1/BusinessValuationCalculator.csproj.CoreCompileInputs.cache
+/home/chris/Documents/BusinessValuationCalculator/obj/Debug/netcoreapp2.1/BusinessValuationCalculator.AssemblyInfoInputs.cache
+/home/chris/Documents/BusinessValuationCalculator/obj/Debug/netcoreapp2.1/BusinessValuationCalculator.AssemblyInfo.cs
+/home/chris/Documents/BusinessValuationCalculator/bin/Debug/netcoreapp2.1/BusinessValuationCalculator.deps.json
+/home/chris/Documents/BusinessValuationCalculator/bin/Debug/netcoreapp2.1/BusinessValuationCalculator.runtimeconfig.json
+/home/chris/Documents/BusinessValuationCalculator/bin/Debug/netcoreapp2.1/BusinessValuationCalculator.runtimeconfig.dev.json
+/home/chris/Documents/BusinessValuationCalculator/bin/Debug/netcoreapp2.1/BusinessValuationCalculator.dll
+/home/chris/Documents/BusinessValuationCalculator/bin/Debug/netcoreapp2.1/BusinessValuationCalculator.pdb
+/home/chris/Documents/BusinessValuationCalculator/obj/Debug/netcoreapp2.1/BusinessValuationCalculator.dll
+/home/chris/Documents/BusinessValuationCalculator/obj/Debug/netcoreapp2.1/BusinessValuationCalculator.pdb
